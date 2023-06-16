@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **AI and Datascience Projects**
 
-- 🌱 I’m currently learning **Artificial Intelligence with Data Science**
+- 🌱 I’m currently working assiduously to land my first role as a **Data scientist**
 
 - 💬 Ask me about **AI,Datascience,Python,SQL,HTML**
 
