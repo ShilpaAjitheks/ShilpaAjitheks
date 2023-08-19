@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/shilpa-ajith-3aa8761b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shilpa ajith" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shilpa-ajith-3aa8761b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shilpa ajith" height="30" width="40" /></a>
 <a href="https://kaggle.com/shilpaajitheks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shilpaajitheks" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100004230669997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shilpa ajith" height="30" width="40" /></a>
 <a href="https://instagram.com/_shilpa_ajith_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_shilpa_ajith_" height="30" width="40" /></a>
