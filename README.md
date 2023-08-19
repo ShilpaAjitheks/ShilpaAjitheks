@@ -1,6 +1,12 @@
 ![MasterHead](https://emeritus.org/wp-content/uploads/2019/03/common-lp-masthead.jpg)
 <h1 align="center">Hi 👋, I'm Shilpa Ajith</h1>
 <h3 align="center">A passionate AI Engineer from India</h3>
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shilpaajitheks" alt="shilpaajitheks" /></a> 
+</p>
+<p align="left"> 
+  <a href="https://twitter.com/shilpaajitheks" target="blank"><img src="https://img.shields.io/twitter/follow/shilpaajitheks?logo=twitter&style=for-the-badge" alt="shilpaajitheks" /></a> 
+</p>
 <img align="right" alt="Coding" width="400"src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shilpaajitheks&label=Profile%20views&color=0e75b6&style=flat" alt="shilpaajitheks" /> </p>
@@ -20,6 +26,8 @@
 <a href="https://www.facebook.com/profile.php?id=100004230669997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shilpa ajith" height="30" width="40" /></a>
 <a href="https://instagram.com/_shilpa_ajith_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_shilpa_ajith_" height="30" width="40" /></a>
 <a href="https://medium.com/@shilpaajitheks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="shilpa ajith" height="30" width="40" /></a>
+<a href="https://twitter.com/shilpaajitheks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shilpaajitheks" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/shilpa ajith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shilpa ajith" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -30,3 +38,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shilpaajitheks&show_icons=true&locale=en" alt="shilpaajitheks" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shilpaajitheks&" alt="shilpaajitheks" /></p>
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/shilpajitheks"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shilpajitheks" /></a></p><br><br>
