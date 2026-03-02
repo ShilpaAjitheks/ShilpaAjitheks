@@ -50,10 +50,10 @@ class AIEngineer:
         self.role = "Datascientist"
         
         self.expertise = {
-            "Core Domains": "Machine Learning · Deep Learning · LLMs · NLP · Computer Vision",
-            "Languages & Libraries": "Python · NumPy · Pandas · Matplotlib · Seaborn · Scikit-learn · TensorFlow · Keras · PyTorch",
-            "Cloud": "AWS · Azure",
-            "Databases": "SQL · MongoDB"
+            "Core Domains": "Machine Learning ,Deep Learning , LLMs ,NLP , Computer Vision",
+            "Languages & Libraries": "Python , NumPy , Pandas , Matplotlib , Seaborn , Scikit-learn , TensorFlow , Keras , PyTorch",
+            "Cloud": "AWS , Azure",
+            "Databases": "SQL , MongoDB"
         }
 
     def show_expertise(self):
