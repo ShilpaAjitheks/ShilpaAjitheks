@@ -70,8 +70,7 @@ me.show_expertise()
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shilpaajitheks&show_icons=true&locale=en" alt="shilpaajitheks" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shilpaajitheks&" alt="shilpaajitheks" /></p>
-<!-- <h3 align="left">Support:</h3>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=shilpaajitheks" alt="shilpaajitheks" /></p><!-- <h3 align="left">Support:</h3>
 
 
 <p><a href="https://www.buymeacoffee.com/shilpaajitheks" target="_blank"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a></p> -->
